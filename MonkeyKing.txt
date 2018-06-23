@@ -7,5 +7,5 @@ B
 C
 D
 
-git add 
+git 
 git commit -m 
