@@ -13,3 +13,8 @@ git commit -m
 现在是rich分支哦
 
 堆叠
+
+ddj
+hello git
+git is very good 
+give you praise
