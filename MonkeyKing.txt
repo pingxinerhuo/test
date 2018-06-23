@@ -7,5 +7,7 @@ B
 C
 D
 
-git 
+git add 
 git commit -m 
+
+现在是rich分支哦
