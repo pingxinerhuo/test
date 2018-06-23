@@ -6,3 +6,6 @@ A
 B
 C
 D
+
+git add 
+git commit -m 
